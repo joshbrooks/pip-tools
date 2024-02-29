@@ -2,7 +2,7 @@ repo_name: joshbrooks/pip-tools
 report_id: dc4da78ba0f4cedf97a98a30ab7d78ca
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:05:25+00:00'
+timestamp: '2024-02-29T18:24:32+00:00'
 requested_by: pre-commit-ci[bot]
 provider: github
 branch: master
